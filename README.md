@@ -1,6 +1,8 @@
 ## Hey!
 
-Welcome to my profile! Here's a walkthrough of my pinned repos:
+Welcome to my profile! My name's Prajwala Immareddy and I'm currently studying Computer Science with a Concentration in AI at Northeastern University. 
+
+Here's a walkthrough of my pinned repos:
 
 STEME Member App: As a team lead for the Member App (a mobile app dedicated to member retention and gamifying being a member of the volunteer organization), I coordinated volunteers through the app development life cycle, industry standards, and Agile methodology. I also helped develop training modules and Standard Operating Procedures.
 
