@@ -1,1 +1,0 @@
-My name's Prajwala Immareddy and I'm currently a Freshman studying Computer Science at Northeastern University. I will be graduating May of 2029.
